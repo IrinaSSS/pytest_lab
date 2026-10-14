@@ -6,4 +6,3 @@ from calculator import Calculator
 def calc():
     return Calculator()
 
-# хочу сделать комит
